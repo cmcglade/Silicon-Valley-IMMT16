@@ -1,0 +1,89 @@
+
+      /* ====================================
+         ============  About US  ==========
+         ==================================== */
+
+      h1 {
+            font-family: Calibri Light, sans-serif;
+            font-size: 45px;
+            font-style: normal;
+            color: grey; /*use gray*/
+            padding-left: 50px;
+            padding-top: 30px;
+        }
+        
+        h2 {
+            font-family: Calibri Light, sans-serif;
+            font-size: 30px;
+            font-style: normal;
+            color: grey;
+            padding-left: 50px;
+        }
+        
+        h3 {
+            font-family: Calibri Light, sans-serif;
+            font-size: 20px;
+            font-size: normal;
+            padding-left: 50px;
+            color: #000000;
+        }
+        
+        body {
+            background-color: #e6f1f7;
+            font-family: verdana, sans-serif;
+            font-size: 14px;
+            font-style: normal;
+            padding: 50px 70px;
+        }
+        
+        ul {
+            padding-left: 150px;
+        }
+    }
+    div {
+        padding: 50px;
+    }
+    img {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 5px;
+        border: solid black 4px;
+    }
+    p {
+        color: #7b8991;
+    }
+    
+
+    /* =====================================
+       ========= Contact Form  =============
+       ===================================== */
+
+
+     input, textarea {
+
+        padding: 12px;
+        border: 1px solid #a4a6a8;
+        width: 190px;
+        color: #7f8082;
+        box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+        -moz-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 8px;
+     }
+    
+     }
+
+     textarea {
+        width: 500px;
+        height: 100px;
+        max-width: 500px;
+        line-height: 16px;
+     }
+
+     input:hover, textarea:hover
+     input:focus, textarea:focus {
+
+        border-color: 2px solid #c8c8c8;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 8px;
+        -moz-box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 8px;
+        -webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 0px 8px;
+     }

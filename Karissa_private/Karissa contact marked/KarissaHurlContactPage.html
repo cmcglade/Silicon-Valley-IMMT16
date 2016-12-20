@@ -1,0 +1,55 @@
+<!-- Karissa Hurl's Contact Me Page -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+	<title>Contact Page - Karissa Hurl</title>
+	<link rel="stylesheet" href="KarissaHurl.css">
+</head>
+<body>
+<header>
+	<img src="http://i.imgur.com/WogGgc5.png" style="width:300px;height:200" alt="Karissa Hurl's logo">
+	</header>
+	<hr>
+	<ul id="nav">
+      <li><a href="#">Karissa Hurl</a></li>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Portfolio</a></li>
+      <li><a href="#">Contact</a></li>
+   </ul>
+ 	<div id="div1"><p>Hey!  I'd love to hear from you, so please fill out the form below and I'll get back to you as soon as possible!</p></div><br>
+	<form id='register' action='register.php' method='post'
+    accept-charset='UTF-8'>
+	<fieldset >
+
+	<div class="div2">
+	
+	<label for='firstname' >First Name: </label>
+	<input type='text' name='firstname' id='firstname' maxlength="50" />
+
+	<label for='lastname' >Last Name: </label>
+	<input type='text' name='lastname' id='lastname' maxlength="50" />
+
+	<label for='email' >Email: </label>
+	<input type='text' name='email' id='email' maxlength="50" /></div>
+	 
+	<div class="div2"><label for='phonenumber' >Phone Number: </label>
+	<input type='text' name='phonenumber' id='phonenumber' maxlength="20" />
+
+	Country:<select name="dropdown">
+	<option value="Canada" selected>Canada</option>
+	<option value="USA">USA</option>
+	<option value="Other">Other</option></select>
+	 
+	<label for='password' >Password: </label>
+	<input type='password' name='password' id='password' maxlength="50" /></div>
+	
+	<div class="div2"><textarea rows="5" cols="50" name="description">Tell me about yourself!</textarea></div>
+	<input type='submit' name='Submit' value='Thanks!' />
+	<input type="reset" value="Start Again!">
+	 
+	</fieldset>
+	</form><br><hr>
+	<footer>KH © 2016</footer>
+</body>
+</html>

@@ -1,0 +1,31 @@
+body {background-color: white;} /*try to keep all your styles formatted consistently*/
+		
+h1 {
+			font-size: 2em;
+			color: #d7f442;
+			font-family: sans-serif;
+			background-color: #560656;
+			padding: 10px;
+			}
+
+ h2 { font-size: 1em;
+			color: #560656;
+			font-family: sans-serif;
+			background-color: white;
+			padding: 5px;
+		}
+		
+button {
+    background-color: #560656; 
+    color: #d7f442;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 1em;
+}
+
+
+ul {list-style: none;}
+
+
+		
+	

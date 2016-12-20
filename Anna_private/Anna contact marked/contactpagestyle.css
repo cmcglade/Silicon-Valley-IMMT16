@@ -1,0 +1,73 @@
+   h1 {
+    font-family: 'David Libre', serif;
+    font-size: 40px;
+    font-style: bold;
+    text-align: center;
+        }
+        h2 {
+    font-family: 'Sumana', serif;
+    font-size: 30px;
+    font-size: normal;
+    text-align:center;
+    color: #4d4d4d; }
+
+    h3 {
+    font-family: 'Sumana', serif;
+    font-size: 20px;
+    font-size: normal;
+    text-align:center;
+    color: #4d4d4d;
+        }
+        body {
+    background-color: #cce6ff;
+    font-family:'Roboto', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+        }
+        ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+p {
+     font-family: 'Dabid Libre', serif;
+    font-size: 25px;
+    font-size: normal;
+    font-weight: bold;
+    text-align:center;
+
+
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+ div {
+    font-family: 'David Libre', serif;
+    font-size: 25px;
+    font-size: normal;
+    background-color: grey;
+    text-align: center;
+  }
+  div span {
+    font-family: 'David Libre', serif;
+    font-size: 20px;
+font-weight: bold;
+    background-color: grey;
+    text-align: center;
+
+  }

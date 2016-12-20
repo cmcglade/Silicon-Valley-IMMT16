@@ -1,0 +1,42 @@
+ /* Karissa Hurl's CSS */
+ header {
+   text-align: center
+ }
+
+ body {
+   font-family:'Roboto', sans-serif;
+   font-size: 18px;
+   font-style: normal;
+ }
+ #nav {
+      width: 100%;
+      float: left;
+      margin: 0 0 3px 0;
+      padding: 0;
+      font-size: 16px;
+      font-family: 'Lato', sans-serif;
+      list-style: none;
+      background-color: #f2f2f2;
+      border-bottom: 1px solid #ccc; 
+      border-top: 1px solid #ccc; 
+      border-left: 1px solid #1E5F5F;
+      border-right: 1px solid #1E5F5F;}
+#nav li {
+      float: left; }
+#nav li a {
+      display: block;
+      padding: 12px 15px;
+      font-family: 'Lato', sans-serif;
+      text-decoration: none;
+      font-weight: normal;
+      color: #174949;
+      border-right: 1px solid #1E5F5F; }
+#nav li a:hover {
+      color: #49A9A9;
+      background-color: #fff; }
+#div1  {
+   margin: 100px 0 0 0;
+}
+.div2  {
+   margin: 20px 0 20px 0;
+}
