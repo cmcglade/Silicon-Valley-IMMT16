@@ -1,0 +1,37 @@
+/* Code has been valided with no errors :) */
+
+body {background-color: #440244;}
+
+.jumbotron h1 {
+
+    color: #440244;
+    font-family: cursive;
+    font-variant: small-caps;
+    }
+
+.jumbotron {
+
+    background-color: #f7d976;
+    border: 5px;
+    border-style: dotted;
+    border-color: #024420;
+    }
+
+.container h3 {
+
+    color: #440244;
+    font-family: sans-serif;
+    }
+
+.container p {
+
+    color: #024420;
+    font-family: sans-serif;
+    font-style: italic;
+    }
+
+.thumbnail {
+    background-color: #f7d976;
+    border-color: #440244;
+
+    }

@@ -1,0 +1,116 @@
+/*watch your formatting, tryo to keep it consistent*/
+
+
+body { background-color: silver; 
+        font-family: Georgia, sans-serif;
+         font size:14px;
+
+}
+
+   p {font-style: italic;
+      font-weight: bold;
+}
+
+ h1  { font-size:450%; 
+        text-shadow: 3px 3px #F4ECF7;
+}
+
+ #header {background-color: #FDFEFE;
+    margin: 10px;  
+    height: 90px;
+    border-radius:5px;
+   }  
+   #navbar {background-color: #FDFEFE;
+    margin: 10px;  
+    height: 35px;
+    border-radius:5px;
+   }
+
+
+.bgimage {
+background-image: url('../img/img5.jpg');
+background-position: center center;
+background-size: cover;
+height: 400px;
+}
+
+.jumbotron {
+    background-color: #696969;
+}
+
+.btn-info {
+    background-color: #8E44AD;
+    border-color: #8E44AD;
+}
+
+.btn-info:hover {
+    background-color: gray;
+    border-color: gray;
+}
+
+.btn-BuyNow {
+     background-color: #D7BDE2;
+     border-color: gray;
+}
+
+.btn-BuyNow:hover {
+    background-color: #F4ECF7;
+    border-color: gray;
+}
+
+img {
+
+    max-width: 100%;
+    max-height: 100%;
+}
+
+h2  {
+
+    max-width: 100%;
+    max-height: 100%;
+
+
+}
+
+
+
+
+
+
+
+
+
+/*.icon {
+	max-width: 150px;
+	margin: 0 auto;
+	display: block;
+}
+
+.videos section {
+	text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+	float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.nav {
+	vertical-align: bottom;
+}
+
+.media img {
+	width: 100px;
+}*/
